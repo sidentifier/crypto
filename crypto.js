@@ -1308,3 +1308,4 @@ const benwestranasilsinizefenimmmmasdasd = new Discord.MessageEmbed()
     return client.channels.cache.get(kanal).send(mesajs);
   }
 });
+///
